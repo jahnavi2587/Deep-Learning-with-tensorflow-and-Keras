@@ -14,7 +14,9 @@ This dataset is used in many types of deep learning research for object recognit
 This repository contains the following:
 
 Python script(s) for Deep Learning.
+
 Sample data or output files (if applicable).
+
 README.md (this file) for project documentation.
 
 ## Getting Started
